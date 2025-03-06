@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+.streamlit/secrets.toml
+>>>>>>> 1c0c43e (Initial commit: A/B testing Streamlit app with Google Sheets integration)
